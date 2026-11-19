@@ -14,5 +14,6 @@ I'm Ella Nicole M. Punzalan from ITE105. I'm currently taking Intermediate Progr
 ### 𝑺𝒐𝒄𝒊𝒂𝒍𝒔
 <a href="https://fb.com/spard4vergil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="spard4vergil" height="30" width="40" /></a>
 <a href="https://instagram.com/elxpnz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elxpnz_" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/2q0rkirj3jegvj8dxqava51je?si=00671fe6ca854bdf" target="blank"><img align="center" alt="e2b74811d8f20d1373ec2d085d1fcfb7-removebg-preview" alt="2q0rkirj3jegvj8dxqava51je" height="30" width="40" /></a>
 </p>
 
