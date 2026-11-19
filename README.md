@@ -6,7 +6,20 @@ I'm Ella Nicole M. Punzalan from ITE105. I'm currently taking Intermediate Progr
 
 ### 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕
 
+> Music
+
+> Character Creation
+
+> Gaming
+
 ### 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝑺𝒌𝒊𝒍𝒍𝒔
+
+Digital Art 
+> (open folder to view)
+> 
+> <a href="https://open.spotify.com/user/2q0rkirj3jegvj8dxqava51je?si=00671fe6ca854bdf" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8dfcb59b-2ef7-4dcb-bcb6-842ed4c41bd6" alt="2q0rkirj3jegvj8dxqava51je" height="50" width="60" /></a>
+</p>
+
 
 <h3 align="left">𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝒂𝒏𝒅 𝑻𝒐𝒐𝒍𝒔</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
@@ -16,4 +29,6 @@ I'm Ella Nicole M. Punzalan from ITE105. I'm currently taking Intermediate Progr
 <a href="https://instagram.com/elxpnz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elxpnz_" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/2q0rkirj3jegvj8dxqava51je?si=00671fe6ca854bdf" target="blank"><img align="center" src="https://github.com/user-attachments/assets/07484fc8-732f-47ac-8590-2b733d345c14" alt="2q0rkirj3jegvj8dxqava51je" height="30" width="40" /></a>
 </p>
+
+
 
