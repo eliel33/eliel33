@@ -12,7 +12,7 @@ I'm Ella Nicole M. Punzalan from ITE105. I'm currently taking Intermediate Progr
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 ### 𝑺𝒐𝒄𝒊𝒂𝒍𝒔
-<p align="left">
+<a href="https://fb.com/spard4vergil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="spard4vergil" height="30" width="40" /></a>
 <a href="https://instagram.com/elxpnz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elxpnz_" height="30" width="40" /></a>
 </p>
 
