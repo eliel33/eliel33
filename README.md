@@ -6,5 +6,5 @@ I'm Ella Nicole M. Punzalan from ITE105. I'm currently taking Intermediate Progr
 
 
 
-# Socials
+## Socials
 
