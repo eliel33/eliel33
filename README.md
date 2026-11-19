@@ -1,4 +1,4 @@
-<img align="center" width="735" height="247" alt="664421751320461258" src="https://github.com/user-attachments/assets/33995163-abef-4a85-b2a0-dfb096c02294" />
+<img width="735" height="245" alt="download (17)" src="https://github.com/user-attachments/assets/d26ff99c-00e5-4977-afe4-491e0e4cdb10" />
 
 
 
@@ -6,6 +6,7 @@
 
 I'm Ella Nicole M. Punzalan from ITE105. I'm currently taking Intermediate Programming as a First-Year student and learning about Java. I took BSIT for the job opportunities, though my passion and interest lies in arts.
 
+  
 ### 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕
 
 - Music
@@ -14,12 +15,16 @@ I'm Ella Nicole M. Punzalan from ITE105. I'm currently taking Intermediate Progr
 
 - Gaming
 
+- Anime & Cartoons
+
+
+
 ### 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝑺𝒌𝒊𝒍𝒍𝒔
 
 Digital Art 
 > (open folder to view)
 > 
-> <a href="https://drive.google.com/drive/folders/1MT8sFqVutxPK0Vm8xH8awnYc2wAqxwWY?usp=drive_link" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8dfcb59b-2ef7-4dcb-bcb6-842ed4c41bd6" alt="digiartbyliel" height="50" width="60" /></a>
+> <a href="https://drive.google.com/drive/folders/1MT8sFqVutxPK0Vm8xH8awnYc2wAqxwWY?usp=drive_link" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c827cc0d-6d34-47f1-b15d-dc0aa138078f" alt="digiartbyliel" height="100" width="110" /></a>
 </p>
 
 
