@@ -1,12 +1,10 @@
 <p align="center"><img width="799" height="271" alt="c217715e2ac9850d6f7eac0762671f14" src="https://github.com/user-attachments/assets/759029c4-f77a-4cf7-b964-23f230cc320c" />
 
-
-
-
 <h1 align="center">𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏</h1>
 
 I'm Ella Nicole M. Punzalan from ITE105. I'm currently taking Intermediate Programming as a First-Year student and learning about Java. I took BSIT for the job opportunities, though my passion and interest lies in arts.
 
+<br>
   
 ### 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕
 
@@ -18,7 +16,7 @@ I'm Ella Nicole M. Punzalan from ITE105. I'm currently taking Intermediate Progr
 
 - Anime & Cartoons
 
-
+<br>
 
 ### 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝑺𝒌𝒊𝒍𝒍𝒔
 
@@ -28,9 +26,13 @@ Digital Art
 > <a href="https://drive.google.com/drive/folders/1MT8sFqVutxPK0Vm8xH8awnYc2wAqxwWY?usp=drive_link" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c827cc0d-6d34-47f1-b15d-dc0aa138078f" alt="digiartbyliel" height="100" width="110" /></a>
 </p>
 
+<br>
 
 <h3 align="left">𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝒂𝒏𝒅 𝑻𝒐𝒐𝒍𝒔</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/31fa28cc-97c2-4073-b804-193b73efc269" alt="java" width="50" height="50"/> </a> </p>
+
+<br>
+
 
 ### 𝑺𝒐𝒄𝒊𝒂𝒍𝒔
 <a href="https://fb.com/spard4vergil" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d5ed5374-8718-4b80-8208-516c8746856b" alt="spard4vergil" height="50" width="50" /></a>
