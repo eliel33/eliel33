@@ -1,9 +1,9 @@
-<img width="799" height="271" alt="c217715e2ac9850d6f7eac0762671f14" src="https://github.com/user-attachments/assets/759029c4-f77a-4cf7-b964-23f230cc320c" />
+<p align="center"><img width="799" height="271" alt="c217715e2ac9850d6f7eac0762671f14" src="https://github.com/user-attachments/assets/759029c4-f77a-4cf7-b964-23f230cc320c" />
 
 
 
 
-# 𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏
+<h1 align="center">𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏</h1>
 
 I'm Ella Nicole M. Punzalan from ITE105. I'm currently taking Intermediate Programming as a First-Year student and learning about Java. I took BSIT for the job opportunities, though my passion and interest lies in arts.
 
