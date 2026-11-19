@@ -1,4 +1,6 @@
-<img width="720" height="230" alt="image" src="https://github.com/user-attachments/assets/d0dbc275-7296-49da-8692-ecf9b57bd50c" />
+<img align="center" width="735" height="247" alt="664421751320461258" src="https://github.com/user-attachments/assets/33995163-abef-4a85-b2a0-dfb096c02294" />
+
+
 
 # 𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏
 
@@ -6,18 +8,18 @@ I'm Ella Nicole M. Punzalan from ITE105. I'm currently taking Intermediate Progr
 
 ### 𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕
 
-> Music
+- Music
 
-> Character Creation
+- Character Creation
 
-> Gaming
+- Gaming
 
 ### 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝑺𝒌𝒊𝒍𝒍𝒔
 
 Digital Art 
 > (open folder to view)
 > 
-> <a href="https://open.spotify.com/user/2q0rkirj3jegvj8dxqava51je?si=00671fe6ca854bdf" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8dfcb59b-2ef7-4dcb-bcb6-842ed4c41bd6" alt="2q0rkirj3jegvj8dxqava51je" height="50" width="60" /></a>
+> <a href="https://drive.google.com/drive/folders/1MT8sFqVutxPK0Vm8xH8awnYc2wAqxwWY?usp=drive_link" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8dfcb59b-2ef7-4dcb-bcb6-842ed4c41bd6" alt="digiartbyliel" height="50" width="60" /></a>
 </p>
 
 
