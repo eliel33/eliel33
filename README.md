@@ -8,7 +8,7 @@ I'm Ella Nicole M. Punzalan from ITE105. I'm currently taking Intermediate Progr
 
 ### 𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝑺𝒌𝒊𝒍𝒍𝒔
 
-<h3 align="left">𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝒂𝒏𝒅 𝑻𝒐𝒐𝒍𝒔:</h3>
+<h3 align="left">𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝒂𝒏𝒅 𝑻𝒐𝒐𝒍𝒔</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 ### 𝑺𝒐𝒄𝒊𝒂𝒍𝒔
